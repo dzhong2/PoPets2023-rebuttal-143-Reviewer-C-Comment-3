@@ -1,4 +1,5 @@
-# PoPets2023-rebuttal-143-Reviewer-C-Comment-3
+# PoPets2023-rebuttal-143
+## Reviewer B Comment 4 & Reviewer C Comment 3
 # Preliminary result: Evaluation on Facebook dataset (Attack A)
  Defense | GAT Target Acc. |GAT  Attack Acc. |GAT  DSV|GCN Target Acc. |GCN Attack Acc. |GCN DSV
   :-------------:|:-------------:|:-------------: | :-------------:| :-------------:|:-------------:|:-------------:
